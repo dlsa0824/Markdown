@@ -2,53 +2,57 @@
 
 ---
 
-#### Open Command Pallete
+### Open Command Pallete
 
 > Ctrl + Shift + P
- 
-#### Open New Window
+
+### Open New Window
 
 > Ctrl + Shift + N
 
-#### Zoom VSCode size
+### Zoom VSCode size
 
-> Ctrl + '+'
+> Ctrl + '+' \
 > Ctrl + '-'
 
-#### Open File
+### Open File
 
 > Ctrl + O
 
-#### Quick File Open
+### Quick File Open
 
 > Ctrl + P
 
-#### Change File Tabs
+### Change File Tabs
 
-> Ctrl + PageUP
+> Ctrl + PageUP \
 > Ctrl + PageDown
 
-#### Spilt Editor
+### Spilt Editor
 
 > Ctrl + \
 
-#### Go To Start & End Of File
+### Go To Start & End Of File
 
 > Ctrl + Home
 > Ctrl + End
 
-#### Remove Line
+### Remove Line
 
 > Ctrl + Shift + K
 
-#### Change Language Mode
+### Change Language Mode
 
-> Ctrl + K > M
+> Ctrl + K -> M
 
-#### Open Terminal
+### Open Terminal
 
 > Ctrl + `
 
-#### Open Newe Terminal
+### Open Newe Terminal
 
 > Ctrl + Shift + `
+
+### Change VSCode Theme
+
+> Ctrl + K -> Ctrl + T
