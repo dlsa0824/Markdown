@@ -24,3 +24,5 @@
 ## 上版規格
 
 ## ScriptServer升級文件
+
+## git push request
