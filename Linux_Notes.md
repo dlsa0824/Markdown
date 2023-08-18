@@ -1,6 +1,18 @@
 # Linux Command Line Notes
 
----
++ [ls 列出資料夾](#ls-列出資料夾)
++ [rm 刪除](#rm-刪除)
++ [grep 印出符合條件](#grep-印出符合條件)
++ [head、tail 觀看檔案頭尾](#headtail-觀看檔案頭尾)
++ [watch 重複執行固定指令](#watch-重複執行固定指令)
++ [chmod 控制對文件權限](#chmod-控制對文件權限)
++ [nslookup 查詢DNS](#nslookup-查詢dns)
++ [find 查詢檔案](#find-查詢檔案)
++ [vim shortcut](#vim-shortcut)
++ [history 歷史命令](#history-歷史命令)
++ [Ctrl + R 歷史命令搜尋](#ctrl--r-歷史命令搜尋)
++ [netstat 查詢網路資訊](#netstat-查詢網路資訊)
++ [awk 格式辨認與語言處理](#awk-格式辨認與語言處理)
 
 ### ls 列出資料夾
 
@@ -148,3 +160,4 @@ dd
 > -p -> 被哪個應用程式使用 \
 > -n -> 不解析DNS
 
+### awk 格式辨認與語言處理
